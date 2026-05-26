@@ -556,9 +556,7 @@ st.markdown("""
     &nbsp;·&nbsp; METODE WEIGHTED PRODUCT (WP) &nbsp;·&nbsp; DATASET: McDONALD'S INDIA MENU
 </div>
 """, unsafe_allow_html=True)
-=======
 
 
 with st.sidebar:
     st.markdown("WP")
->>>>>>> 6c77c8bba3eb568527d307333674ddfe9b4503c4
